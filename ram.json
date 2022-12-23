@@ -1,0 +1,12 @@
+{
+  "name": "classifying-the-sentiment",
+  "description": "Unofficial API of Inshorts News",
+  "keywords": [
+    "flask",
+    "python",
+    "news",
+    "inshorts"
+  ],
+  "success_url": "https://github.com/rakraosahab",
+  "repository": "https://github.com/rakraosahab/classifying-the-sentiment.git"
+}
